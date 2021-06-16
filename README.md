@@ -7,4 +7,16 @@
 
 ## 代码参考
 
-![MIT Cheetah](https://github.com/mit-biomimetics/Cheetah-Software.git)
+[MIT Cheetah](https://github.com/mit-biomimetics/Cheetah-Software.git)
+
+## 使用
+
+参考src/tutorial.cpp
+
+```
+mkdir build && cd build
+
+cmake ..
+
+make
+```
